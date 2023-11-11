@@ -18,7 +18,7 @@ class MyApp extends StatelessWidget {
             mainAxisAlignment: MainAxisAlignment.center,
             children: [
               CircleAvatar(
-                radius: 50,
+                radius: 80,
                 // backgroundColor: Colors.red,
                 backgroundImage: AssetImage('assets/salma.jpg'),
               ),
